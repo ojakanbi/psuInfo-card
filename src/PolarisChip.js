@@ -255,6 +255,8 @@ export class PolarisChip extends LitElement {
   
     
   }
+  #text {
+    padding-top: 10px;
   }
     `;
   }
